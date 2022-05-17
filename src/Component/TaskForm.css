@@ -1,0 +1,7 @@
+.fromContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(153, 169, 169,0.3);
+}
+
